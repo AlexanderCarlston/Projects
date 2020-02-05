@@ -1,0 +1,11 @@
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz
+/Users/alekscarlston/Desktop/csharp/Projects/text/fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.deps.json
+/Users/alekscarlston/Desktop/csharp/Projects/text/fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.runtimeconfig.json
+/Users/alekscarlston/Desktop/csharp/Projects/text/fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.runtimeconfig.dev.json
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.dll
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/bin/Debug/netcoreapp3.1/Fizzbuzz.pdb
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.csprojAssemblyReference.cache
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.AssemblyInfoInputs.cache
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.AssemblyInfo.cs
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.dll
+/Users/alekscarlston/Desktop/csharp/Projects/text/Fizzbuzz/obj/Debug/netcoreapp3.1/Fizzbuzz.pdb
